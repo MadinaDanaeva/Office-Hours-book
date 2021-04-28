@@ -1,0 +1,4 @@
+Unit 1 
+
+variables, dessimals, if statements
+switch, array, methods, classes
